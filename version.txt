@@ -1,1 +1,2 @@
 AVEdgeHUB v1.1
+ANX Build 1.0
