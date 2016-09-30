@@ -1,2 +1,3 @@
 AVEdgeHUB v1.1
-ANX Build 1.0
+ANX Build v1.0
+Nebula v3.0
