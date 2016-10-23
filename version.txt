@@ -1,2 +1,2 @@
-AVEdge HUB Build v2.4
-AVEdge ANX Build v2.2
+AVEdge HUB Build v2.5
+AVEdge ANX Build v2.3
