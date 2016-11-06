@@ -1,2 +1,2 @@
-AVEdge HUB Build Updated 04-Nov-2016 v2.7
+AVEdge HUB Build Updated 04-Nov-2016 v2.8
 AVEdge ANX Build Updated 04-Nov-2016 v2.4
