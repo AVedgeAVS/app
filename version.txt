@@ -1,3 +1,3 @@
-AVEdge HUB Build. Latest update 02-Aug-2017 v5.7.0
-AVEdge ANX Build. Latest update 28-Jul-2017 v4.7.2
+AVEdge HUB Build. Latest update 16-Aug-2017 v5.7.1
+AVEdge ANX Build. Latest update 16-Aug-2017 v4.7.3
 AVEdge Blank Build. v1.0.1
